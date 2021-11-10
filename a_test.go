@@ -4,7 +4,7 @@ import "testing"
 
 func Test_a(t *testing.T) {
 	type args struct {
-		i int
+		i int 
 	}
 	tests := []struct {
 		name string
